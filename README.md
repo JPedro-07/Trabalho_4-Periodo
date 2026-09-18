@@ -33,7 +33,7 @@ Tornar as doações mais **organizadas, acessíveis e transparentes**, aproximan
 
 - João Pedro Machado
 - Carlos Vinicius
-- Carlos Oliveira
+- Carlos Henrique
 - Cauã Manoel
 - Lucas Fernandes
 - Pedro Campos
