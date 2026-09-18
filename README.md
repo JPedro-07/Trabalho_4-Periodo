@@ -32,7 +32,7 @@ Tornar as doações mais **organizadas, acessíveis e transparentes**, aproximan
 ## 👨‍💻 Equipe
 
 - João Pedro Machado
-- Carlos Vinicius
+- Carlos Vinícius 
 - Carlos Henrique
 - Cauã Manoel
 - Lucas Fernandes
