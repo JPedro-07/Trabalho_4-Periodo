@@ -10,7 +10,7 @@ A plataforma organiza as necessidades das instituições por prioridade, facilit
 
 Tornar as doações mais **organizadas, acessíveis e transparentes**, aproximando doadores e instituições.
 
-## 👥 Perfis
+## 👥 Perfis de Usuário
 
 - 👤 **Doador:** visualiza necessidades e realiza doações.
 - 🏢 **Instituição:** cadastra necessidades e prioridades.
