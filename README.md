@@ -36,7 +36,7 @@ Tornar as doações mais **organizadas, acessíveis e transparentes**, aproximan
 - Carlos Oliveira
 - Cauã Manoel
 - Lucas Fernandes
-- Pedro Santos
+- Pedro Campos
 
 ## 🚧 Status
 
