@@ -38,8 +38,31 @@ Tornar as doações mais **organizadas, acessíveis e transparentes**, aproximan
 - Lucas Fernandes
 - Pedro Campos
 
+
+## 📊 Atualizações do Projeto
+
+### 👥 Equipe e Senioridade
+Foi adicionada uma seção apresentando os integrantes da equipe, seus níveis de senioridade e os respectivos valores de remuneração mensal.
+
+### 💰 Custos do Projeto
+Foram incluídas planilhas com a estimativa dos custos de desenvolvimento, infraestrutura e tecnologia necessários para a construção e manutenção do Doe Já.
+
+### 📦 Planos e Precificação
+Foi criada uma seção com os planos de utilização da plataforma, considerando diferentes públicos:
+
+- **Instituições de caridade e ONGs:** planos voltados às necessidades das instituições.
+- **Empresas parceiras (ESG):** planos para empresas interessadas em apoiar ações sociais e acompanhar seu impacto.
+- **Doadores (pessoa física):** acesso gratuito à plataforma, incentivando a participação nas doações.
+
+### 🌐 Atualização do Site
+O site foi atualizado com as informações sobre a equipe, os custos de desenvolvimento e infraestrutura e os planos de preços, conforme os requisitos definidos para a segunda apresentação do projeto.
+
+### 🎯 Objetivo
+Demonstrar a estrutura profissional e financeira do Doe Já, apresentando os custos estimados, a organização da equipe e o modelo de negócio proposto para a plataforma.
+
+
 ## 🚧 Status
 
 **Projeto em desenvolvimento.**
 
-A ideação, prototipação e arquitetura já foram definidas. Atualmente, o projeto está avançando para a implementação Web, Mobile e Back-End.
+atualmente o projeto Doe Já está em desenvolvimento, com atualizações realizadas para a segunda apresentação, incluindo informações sobre a equipe, os custos do projeto e os planos de preços.
