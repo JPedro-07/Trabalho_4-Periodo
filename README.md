@@ -73,7 +73,17 @@ O investimento inicial estimado para o desenvolvimento do produto mínimo viáve
 | Marketing de lançamento | R$ 1.000,00 |
 | **Total do investimento inicial** | **R$ 33.500,00** |
 
-Os valores apresentados são estimativas para o desenvolvimento e a operação da plataforma. O investimento inicial contempla a criação do MVP, enquanto os custos de infraestrutura representam as despesas recorrentes de operação.### 
+Os valores apresentados são estimativas para o desenvolvimento e a operação da plataforma. O investimento inicial contempla a criação do MVP, enquanto os custos de infraestrutura representam as despesas recorrentes de operação.
+
+### 📦 Planos e Precificação
+Foi criada uma seção com os planos de utilização da plataforma, considerando diferentes públicos:
+
+- **Instituições de caridade e ONGs:** planos voltados às necessidades das instituições.
+- **Empresas parceiras (ESG):** planos para empresas interessadas em apoiar ações sociais e acompanhar seu impacto.
+- **Doadores (pessoa física):** acesso gratuito à plataforma, incentivando a participação nas doações.
+
+### 🌐 Atualização do Site
+O site foi atualizado com as informações sobre a equipe, os custos de desenvolvimento e infraestrutura e os planos de preços, conforme os requisitos definidos para a segunda apresentação do projeto.
 
 
 ### 🎯 Objetivo
