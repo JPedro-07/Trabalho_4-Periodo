@@ -1,0 +1,68 @@
+
+.acesso-container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 15px;
+  background: #f4f8f5;
+}
+
+.acesso-card {
+  width: 100%;
+  max-width: 430px;
+  padding: 35px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+}
+
+.acesso-card h1 {
+  color: #16845a;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.acesso-card p {
+  color: #666;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.acesso-card label {
+  display: block;
+  margin: 15px 0 7px;
+  color: #333;
+  font-weight: 600;
+}
+
+.acesso-card input,
+.acesso-card select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.acesso-card button {
+  width: 100%;
+  padding: 13px;
+  margin-top: 22px;
+  border: none;
+  border-radius: 8px;
+  background: #16845a;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.acesso-card button:hover {
+  background: #106b48;
+}
+
+.acesso-card a {
+  color: #16845a;
+  font-weight: bold;
+  text-decoration: none;
+}

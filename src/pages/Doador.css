@@ -8,20 +8,6 @@
     color: #333;
 }
 
-.cabecalho {
-    background: #16845a;
-    color: #fff;
-    padding: 20px 8%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.cabecalho h1{
-    margin: 0;
-    font-size: 28px;
-}
-
 .conteudo {
     max-width: 1100px;
     margin: auto;
@@ -156,7 +142,6 @@
         padding: 18px 20px;
     }
 }
-/* Melhorias visuais dos cartões */
 
 .boas-vindas {
   background: linear-gradient(120deg, #e3f4e9, #f4faf5);
@@ -217,4 +202,51 @@
 .filtros button.ativo:hover {
   background: #106b48;
   color: white;
+}
+
+/* Correção do layout do painel do doador */
+
+.doador-container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 30px auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.doador-container h1,
+.doador-container p {
+  position: static;
+}
+
+.lista-necessidades {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  width: 100%;
+}
+
+.card-necessidade {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 0;
+  overflow-wrap: break-word;
+}
+
+.card-necessidade button {
+  max-width: 100%;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .doador-container {
+    padding: 12px;
+  }
+
+  .lista-necessidades {
+    grid-template-columns: 1fr;
+  }
 }
