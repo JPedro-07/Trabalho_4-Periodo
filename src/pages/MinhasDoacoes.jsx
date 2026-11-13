@@ -1,4 +1,4 @@
-
+import "./MinhasDoacoes.css";
 import { useState } from "react";
 
 function MinhasDoacoes() {

@@ -4,35 +4,9 @@ import "./Doador.css";
 function Doador() {
   const [filtro, setFiltro] = useState("TODAS");
 
-  const necessidades = [
-    {
-      id: 1,
-      instituicao: "Instituto Esperança",
-      item: "Cestas básicas",
-      descricao: "Alimentos para famílias em situação de vulnerabilidade.",
-      quantidade: 30,
-      prioridade: "URGENTE",
-      categoria: "Alimentação"
-    },
-    {
-      id: 2,
-      instituicao: "Casa da Criança",
-      item: "Roupas infantis",
-      descricao: "Roupas para crianças de 2 a 10 anos.",
-      quantidade: 20,
-      prioridade: "MEDIA",
-      categoria: "Roupas"
-    },
-    {
-      id: 3,
-      instituicao: "Lar Solidário",
-      item: "Produtos de higiene",
-      descricao: "Sabonetes, shampoos e escovas de dente.",
-      quantidade: 15,
-      prioridade: "BAIXA",
-      categoria: "Higiene"
-    }
-  ];
+const [necessidades] = useState(() => {
+  return JSON.parse(localStorage.getItem("necessidades")) || [];
+});
 
   const necessidadesFiltradas =
     filtro === "TODAS"

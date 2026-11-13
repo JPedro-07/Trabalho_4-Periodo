@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  font-family: 'Inter', sans-serif;
+  color: #26352d;
+  background: #f6f8f6;
+
+  --verde: #16845a;
+  --verde-escuro: #106b48;
+  --verde-claro: #e8f5ed;
+  --fundo: #f6f8f6;
+  --branco: #ffffff;
+  --texto: #26352d;
+  --cinza: #718078;
+  --borda: #e6ece7;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--fundo);
+}
+
+button, input, select, textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  color: var(--texto);
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 13px 15px;
+  border: 1px solid var(--borda);
+  border-radius: 9px;
+  outline: none;
+  background: white;
+  margin-top: 7px;
+  margin-bottom: 18px;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: var(--verde);
+  box-shadow: 0 0 0 3px #16845a18;
+}
+
+button[type="submit"] {
+  background: var(--verde);
+  color: white;
+  border: none;
+  padding: 14px 22px;
+  border-radius: 9px;
+  font-weight: 600;
+}
+
+button[type="submit"]:hover {
+  background: var(--verde-escuro);
+  transform: translateY(-1px);
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--texto);
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
